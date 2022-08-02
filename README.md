@@ -1,8 +1,6 @@
 # ML Strategy Design for Stock Investment
 
-All files were coded in Python 3. To run these files properly, util.py file needs to be present in the same folder as these files so that its functions can be imported.
-
-## Files：
+Implemented two strategies and compare their performance. One strategy is a human-developed strategy, which is empirical-based. The another is a strategy learner, which will develop the trading rules using artificial intelligence (Details in https://lucylabs.gatech.edu/ml4t/fall2021/project-8/).
 
 1. RTLearner.py
 
