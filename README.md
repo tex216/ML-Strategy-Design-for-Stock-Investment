@@ -41,4 +41,4 @@ This file need not be run as it was designed to be imported in other files, it a
 This file is considered the entry point to this project. All the 4 plots and 3 statistics tables for the report could be generated once running this file.
 
 ## How To Run:    
-                                                                           PYTHONPATH=../:. python testproject.py 
+PYTHONPATH=../:. python testproject.py 
