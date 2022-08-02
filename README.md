@@ -1,6 +1,6 @@
 # ML Strategy Design for Stock Investment
 
-Implemented two strategies and compare their performance. One strategy is a human-developed strategy, which is empirical-based. The another is a strategy learner, which will develop the trading rules using artificial intelligence (Details in https://lucylabs.gatech.edu/ml4t/spring2022/project-8/).
+Implemented two strategies for trading stocks and compare their performance. One strategy is a human-developed strategy, which is empirical-based. The another is a **Random Forest strategy learner (random tree with bagging)** which will develop the trading rules using artificial intelligence (Details see https://lucylabs.gatech.edu/ml4t/spring2022/project-8/). Overall, the strategy learner was **6x outperformed** the empirical manual strategy portfolio on mean/STDEV of daily returns and cumulative returns. 
 
 1. RTLearner.py
 
